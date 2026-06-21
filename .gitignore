@@ -1,3 +1,4 @@
-localstack_data/
-*.tfstate*
 .terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
